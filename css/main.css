@@ -85,14 +85,16 @@ body {
   list-style: none;
   padding: 5px.
   }
+
   .start{
-    margin-bottom: -50px;
+    margin-bottom: -43px;
+
   }
 
   .lista2 .list{
     text-decoration: none;
     float: right;
-    padding: 20px;
+    padding: 8px;
     display: inline-block;
     list-style: none;
 
@@ -146,10 +148,10 @@ body {
     margin-top: 60px;
   }
   .littlesection{
-    margin-top: 60%;
-    width: 60%;
+    
+    width: 80%;
     height: 540px;
-    margin-left: 100px;
+    margin-left: 50px;
   }
   .photo{
     width: 100%;
@@ -244,6 +246,7 @@ padding: 5px.
   text-decoration: none;
   float: right;
   padding: 20px;
+  margin-right: 20px;
   display: inline-block;
   list-style: none;
 
@@ -270,28 +273,31 @@ padding: 5px.
 }
 .title{
   text-align: center;
+  margin-top: 30px;
 }
 .paragraph2{
   text-align: justify;
   line-height:30px;
-  padding: 20px;
+  padding: 60px;
+  margin-left: 40px;
 }
 .title2{
   padding-left: 40px;
+  margin-top: 30px;
 }
  .direccion{
      padding-left: 40px;
      margin-top: 8px;
 }
    .one{
-     margin-top: 40px;
+     margin-top: 80px;
 }
 .btn{
   width:160px;
   height :40px;
   border-radius: 10px;
   background-color: black;
-  outline: none
+  border: none;
   color: white;
   margin-left: -800px;
   margin-top: 60px;
@@ -300,7 +306,7 @@ padding: 5px.
   margin-top: 80px;
   width: 25%;
   height: 600px;
-  margin-left: 100px;
+  margin-left: 90px;
 }
 .photo{
   width: 100%;
